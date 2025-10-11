@@ -1,1 +1,1 @@
-Paste your repo URL here
+https://github.com/BradleyAPierce/Codecademy.git
